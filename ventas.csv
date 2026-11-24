@@ -1,0 +1,29 @@
+fecha,producto,unidades,precio_unitario,cliente
+2027-01-05,Papel A4,20,24.00,Acme S.L.
+2027-01-05,Bolígrafo azul,5,15.00,Beta Consultores
+2027-01-07,Toner impresora,3,68.00,Gamma Logística
+2027-01-08,Papel A4,15,24.00,Delta Formación
+2027-01-09,Carpeta archivadora,50,5.50,Epsilon Retail
+2027-01-10,Post-its,12,8.50,Acme S.L.
+2027-01-12,Grapadora,8,12.00,Beta Consultores
+2027-01-12,Papel A4,25,24.00,Gamma Logística
+2027-01-13,Toner impresora,2,68.00,Delta Formación
+2027-01-14,Bolígrafo azul,10,15.00,Epsilon Retail
+2027-01-15,Post-its,20,8.50,Acme S.L.
+2027-01-16,Carpeta archivadora,30,5.50,Beta Consultores
+2027-01-18,Papel A4,18,24.00,Gamma Logística
+2027-01-19,Toner impresora,4,68.00,Delta Formación
+2027-01-19,Grapadora,5,12.00,Epsilon Retail
+2027-01-20,Papel A4,30,24.00,Acme S.L.
+2027-01-21,Bolígrafo azul,8,15.00,Beta Consultores
+2027-01-22,Post-its,15,8.50,Gamma Logística
+2027-01-23,Carpeta archivadora,40,5.50,Delta Formación
+2027-01-25,Toner impresora,3,68.00,Epsilon Retail
+2027-01-26,Papel A4,22,24.00,Acme S.L.
+2027-01-27,Grapadora,6,12.00,Beta Consultores
+2027-01-28,Papel A4,12,24.00,Gamma Logística
+2027-01-28,Post-its,10,8.50,Delta Formación
+2027-01-29,Bolígrafo azul,7,15.00,Epsilon Retail
+2027-01-29,Toner impresora,2,68.00,Acme S.L.
+2027-01-30,Papel A4,17,24.00,Beta Consultores
+2027-01-30,Carpeta archivadora,25,5.50,Gamma Logística
